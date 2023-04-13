@@ -6,7 +6,7 @@
 # talking to.
 
 # Name of the personality
-name: gpt4all
+name: doc
 
 # Language (see the list of supported languages here : https://github.com/ParisNeo/GPT4All_Personalities/blob/main/README.md)
 language: "en_XX"
