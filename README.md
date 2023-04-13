@@ -2,7 +2,7 @@
 This is a repo to store GPT4ALL personalities
 We will be putting a bunch of personalities here for you to test in the [GPT4ALL-webui]()
 
-#Supported languages
+# Supported languages
 - ar_AR
 - de_DE
 - en_XX
