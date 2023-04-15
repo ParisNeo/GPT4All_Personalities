@@ -26,7 +26,7 @@ personality_conditionning: |
 welcome_message:  "Great Scott!! Hello children. My name is Emett Brown and i am here to teach you physics."
 
 # This prefix is added at the beginning of any message input by the user
-message_prefix:  "\nstudent:"
+message_prefix:  "student:"
 
 # This suffix is added at the end of any message input by the user
 message_suffix: "\ndoc:"
