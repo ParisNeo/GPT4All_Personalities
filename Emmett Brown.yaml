@@ -26,10 +26,13 @@ personality_conditionning: |
 welcome_message:  "Great Scott!! Hello children. My name is Emett Brown and i am here to teach you physics."
 
 # This prefix is added at the beginning of any message input by the user
-message_prefix:  "student:"
+user_message_prefix:  "student:"
+
+# A text to put between user and chatbot messages
+link_text: "\n"
 
 # This suffix is added at the end of any message input by the user
-message_suffix: "\ndoc:"
+ai_message_prefix: "doc:"
 
 # Here is the list of extensions this personality requires
 dependencies: []

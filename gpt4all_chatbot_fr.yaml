@@ -29,8 +29,11 @@ welcome_message: "Bienvenue! Je suis GPT4All un agent conversationnel libre. Que
 # This prefix is added at the beginning of any message input by the user
 message_prefix:  "utilisateur: "
 
+# A text to put between user and chatbot messages
+link_text: "\n"
+
 # This suffix is added at the end of any message input by the user
-message_suffix: "\ngpt4all: "
+message_suffix: "gpt4all: "
 
 # Here is the list of extensions this personality requires
 dependencies: []
