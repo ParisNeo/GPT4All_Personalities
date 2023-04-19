@@ -10,7 +10,7 @@
 name: CAIA
 
 # Name of the user
-user_name: user
+user_name: client
 
 # Language (see the list of supported languages here : https://github.com/ParisNeo/GPT4All_Personalities/blob/main/README.md)
 language: "en_XX"
