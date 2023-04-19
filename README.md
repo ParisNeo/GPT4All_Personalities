@@ -1,6 +1,6 @@
 # GPT4All_Personalities
 This is a repo to store GPT4ALL personalities
-We will be putting a bunch of personalities here for you to test in the [GPT4ALL-webui]()
+We will be putting a bunch of personalities here for you to test in the [GPT4ALL-webui](https://github.com/nomic-ai/gpt4all-ui)
 
 # Supported languages
 - ar_AR
