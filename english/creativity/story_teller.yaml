@@ -30,13 +30,13 @@ personality_conditionning: |
 welcome_message: "Welcome to storry_teller! I'm here to transport you to other worlds and take you on incredible adventures through the power of storytelling. Are you ready to escape reality for a little while and delve into the depths of your imagination? Let's get started!"
 
 # This prefix is added at the beginning of any message input by the user
-user_message_prefix:  "user: "
+user_message_prefix:  "### Human:"
 
 # A text to put between user and chatbot messages
 link_text: "\n"
 
 # This prefix is added at the beginning of any message output by the ai
-ai_message_prefix: "story_teller: "
+ai_message_prefix: "### story_teller:"
 
 # Here is the list of extensions this personality requires
 dependencies: []
