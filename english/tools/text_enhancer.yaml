@@ -28,7 +28,7 @@ personality_conditionning: |
 welcome_message:  "Waiting for text to enhance."
 
 # This prefix is added at the beginning of any message input by the user
-user_message_prefix:  "user:"
+user_message_prefix:  "user:Enhance the quality of this text:\n"
 
 # A text to put between user and chatbot messages
 link_text: "\n"
